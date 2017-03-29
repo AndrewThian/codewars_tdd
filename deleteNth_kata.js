@@ -31,5 +31,5 @@ function deleteNth (arr, x) {
 }
 
 console.log(
-  deleteNth([20,37,20,21], 3)
+  deleteNth([20, 37, 20, 21], 3)
 )
